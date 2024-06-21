@@ -26,7 +26,7 @@
         "required": ["type"]
       },
       "then": {
-        "$ref": "file:D:/rose/01_creations/04_programming/renew/schemas/blasting.json"
+        "$ref": "https://anaaronnight.github.io/roses-json-schema/minecraft/blasting.json"
       }
     },
     {
@@ -37,7 +37,7 @@
         "required": ["type"]
       },
       "then": {
-        "$ref": "file:D:/rose/01_creations/04_programming/renew/schemas/campfire_cooking.json"
+        "$ref": "https://anaaronnight.github.io/roses-json-schema/minecraft/campfire_cooking.json"
       }
     },
     {
@@ -48,7 +48,7 @@
         "required": ["type"]
       },
       "then": {
-        "$ref": "file:D:/rose/01_creations/04_programming/renew/schemas/crafting_shaped.json"
+        "$ref": "https://anaaronnight.github.io/roses-json-schema/minecraft/crafting_shaped.json"
       }
     },
     {
@@ -59,7 +59,7 @@
         "required": ["type"]
       },
       "then": {
-        "$ref": "file:D:/rose/01_creations/04_programming/renew/schemas/crafting_shapeless.json"
+        "$ref": "https://anaaronnight.github.io/roses-json-schema/minecraft/crafting_shapeless.json"
       }
     },
     {
@@ -70,7 +70,7 @@
         "required": ["type"]
       },
       "then": {
-        "$ref": "file:D:/rose/01_creations/04_programming/renew/schemas/smelting.json"
+        "$ref": "https://anaaronnight.github.io/roses-json-schema/minecraft/smelting.json"
       }
     },
     {
@@ -81,7 +81,7 @@
         "required": ["type"]
       },
       "then": {
-        "$ref": "file:D:/rose/01_creations/04_programming/renew/schemas/smithing.json"
+        "$ref": "https://anaaronnight.github.io/roses-json-schema/minecraft/smithing.json"
       }
     },
     {
@@ -92,7 +92,7 @@
         "required": ["type"]
       },
       "then": {
-        "$ref": "file:D:/rose/01_creations/04_programming/renew/schemas/smoking.json"
+        "$ref": "https://anaaronnight.github.io/roses-json-schema/minecraft/smoking.json"
       }
     },
     {
@@ -103,7 +103,7 @@
         "required": ["type"]
       },
       "then": {
-        "$ref": "file:D:/rose/01_creations/04_programming/renew/schemas/stonecutting.json"
+        "$ref": "https://anaaronnight.github.io/roses-json-schema/minecraft/stonecutting.json"
       }
     }
   ]
